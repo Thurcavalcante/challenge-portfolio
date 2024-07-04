@@ -10,7 +10,7 @@ Este é o meu portfolio do desafio challenge, onde compartilha minhas experiênc
 
 ### 🔗 Links Úteis
 - GitHub: [@Thurcavalcante](https://github.com/Thurcavalcante)
-- Linkedin: [Arthur Cavalcante](http://127.0.0.1:3000/index.html)
+- Linkedin: [Arthur Cavalcante](https://www.linkedin.com/in/thur-cavalcante/)
 - Deploy: [Portfólio](https://thurcavalcante.github.io/challenge-portfolio/)
 
 ### 📦 Tecnologias usadas
